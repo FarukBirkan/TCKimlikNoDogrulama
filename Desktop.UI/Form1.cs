@@ -31,7 +31,7 @@ namespace Desktop.UI
             }
             catch (Exception)
             {
-
+                
                 durum = null;
             }
 
