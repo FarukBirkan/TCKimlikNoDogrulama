@@ -1,4 +1,4 @@
-# TCKimlikNoDogrulama
+# TC Kimlik No Dogrulama
 Tc Kimlik Doğrulama Desktop Uygulaması 
 
 WebService TCKimlikNo Doğrulama
